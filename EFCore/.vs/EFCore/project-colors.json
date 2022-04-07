@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e208068a-e90d-4bf2-972e-35e42a76a0d8": {
+      "ProjectGuid": "e208068a-e90d-4bf2-972e-35e42a76a0d8",
+      "DisplayName": "EFCore.Legado",
+      "ColorIndex": 0
+    },
+    "f8b7ff4a-f68c-42d2-b2cc-33150c4d5f17": {
+      "ProjectGuid": "f8b7ff4a-f68c-42d2-b2cc-33150c4d5f17",
+      "DisplayName": "EFCore.Dominio",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a68b5cbd-329c-4fec-bc5a-9fc47784ce29": {
+      "ProjectGuid": "a68b5cbd-329c-4fec-bc5a-9fc47784ce29",
+      "DisplayName": "EFCore.WebAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "9038acf6-6815-41bc-af43-fdada25d38ed": {
+      "ProjectGuid": "9038acf6-6815-41bc-af43-fdada25d38ed",
+      "DisplayName": "EFCoreRepo",
+      "ColorIndex": 1
+    },
+    "55a65563-3ec1-4441-92b7-51c7a768b336": {
+      "ProjectGuid": "55a65563-3ec1-4441-92b7-51c7a768b336",
+      "DisplayName": "EFCore.Dominio",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

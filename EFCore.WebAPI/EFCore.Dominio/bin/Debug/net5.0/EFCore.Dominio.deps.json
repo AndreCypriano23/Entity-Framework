@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EFCore.Dominio/1.0.0": {
+        "runtime": {
+          "EFCore.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EFCore.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
